@@ -11,10 +11,14 @@
 从这个项目总结，我认为ai确实可以帮我们编写代码，但如果想保证项目顺利进行，作为设计师/艺术家的我们还是需要掌握编程知识。读懂代码、找出错误、修改错误。
 
 ## Code As An Artform
-在课后，我观看了youtube视频。其中的一句话让我印象很深刻：the function of art is to hold a mirror up to nature。如果事先不告诉我视频中举出的许多例子是由代码生成的，我大概会猜测是使用adobe illustrator制作的，或是由AI工具生成的。
+在课后，我观看了youtube视频 The Art Of Code by Beattie (2020)。如果事先不告诉我视频中举出的许多例子是由代码生成的，我大概会猜测是使用adobe illustrator制作的，或是由AI工具生成的。但略有不同的是在平面设计中，使用 Adobe Illustrator 等传统软件意味着我们是在别人预先设定好的工具箱和图形界面里进行视觉创作，以及使用自然语言向 AI 提 Prompt，本质上是将生成逻辑交给了电脑。相比之下，编写代码要求我们直接与计算机的底层逻辑和规则进行交互。
+
+所以我认为代码不仅仅是一种技术工具，更是一种具有高度表达力的动态媒介。使用代码画图，我不再只是绘制一个静态的视觉形态。这填补了抽象设计意图与精准视觉执行之间的鸿沟，同时也拓宽了艺术表达的边界。正如 Ihde (1990) 在探讨技术与感知时所指出的，工具从来都不是中立的；它们会反过来塑造我们如何看待‘可能性’。
 
 ## Conclusion
-技术与认知的关系/突破认知的边界 了解更多的可能性
+总而言之，在第一节编程课上，当要求我回答Why Are We Here这个问题时，我会基于我过往的经验来回答：编程是一项工具，可以帮助我们来实现创意。不过在上过两次编程课，并在tutorials中实践操作后，我的回答是：编程不仅仅是一项工具，它本身就具有高度的表达力。我们需要用更为尊重的态度来学习它、探索它，逐步突破我们认知的边界。
 
 ## References
+
 * Beattie, D. (2020). *The art of code* [Video]. NDC Conferences. https://www.youtube.com/watch?v=6avJHaC3C2U
+* Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
